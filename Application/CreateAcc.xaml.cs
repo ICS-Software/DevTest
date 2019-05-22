@@ -25,6 +25,7 @@ namespace WpfApp1
 
      
 
+
         public CreateAcc(LoginWindow loginWindow)
         {
             InitializeComponent();
